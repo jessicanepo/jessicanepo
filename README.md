@@ -17,7 +17,6 @@ Tecnologias que tenho conhecimento
   <img alt="sass" src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-<br>
 Pretendo estudar
 <div style="">
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
