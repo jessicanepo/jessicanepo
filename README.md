@@ -3,8 +3,6 @@
 - 🌱 Jovem estudante de tecnologia!
 - 👨‍💻 Desenvolvedor Front-end e UX/Ui Design
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uxjess_/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicanepo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicanepo&layout=compact&theme=radical)
 
 ## Stacks 
@@ -19,6 +17,7 @@ Tecnologias que tenho conhecimento
   <img alt="sass" src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
+<br>
 Pretendo estudar
 <div style="">
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -31,3 +30,4 @@ Pretendo estudar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicaneposimo@gmail.com)
 [![WhatsAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5527996571637)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nepojessica/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uxjess_/)
