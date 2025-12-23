@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Nepomuceno 👋🏼
 
-- 🌱 Jovem estudante de programação!
-- 👨‍💻 Desenvolvedor Front-end e UX/Ui Design
+- 🌱 Jovem estudante de programação, mas especificamente o Front-End!
+- 👨‍💻 Sou UX/Ui Design
 - 💻 Em busca do meu primeiro trabalho como Dev Fron-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicanepo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicanepo&layout=compact&theme=radical)
